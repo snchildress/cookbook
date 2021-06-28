@@ -1,5 +1,7 @@
 # Sous Vide Salmon
 
+![Sous Vide Salmon](../images/sous-vide-salmon.jpg)
+
 ## Ingredients
 
 - 1/2 pound salmon
