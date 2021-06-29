@@ -1,5 +1,7 @@
 # Chicken Shawarma
 
+![Chicken Shawarma](../images/chicken-shawarma.jpg)
+
 ## Ingredients
 
 - 2 lbs chicken breast tenders, sliced medium
